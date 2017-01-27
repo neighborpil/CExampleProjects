@@ -1,0 +1,6 @@
+﻿  Ex13_1.c
+c:\[codes]\git\cexampleprojects\ch13\ex13_1\ex13_1\ex13_1.c(35): warning C4716: 'fct3': 값을 반환해야 합니다.
+c:\[codes]\git\cexampleprojects\ch13\ex13_1\ex13_1\ex13_1.c(22): warning C4716: 'fct1': 값을 반환해야 합니다.
+c:\[codes]\git\cexampleprojects\ch13\ex13_1\ex13_1\ex13_1.c(28): warning C4716: 'fct2': 값을 반환해야 합니다.
+  Ex13_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch13\Ex13_1\Debug\Ex13_1.exe
+  Ex13_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch13\Ex13_1\Debug\Ex13_1.pdb (Full PDB)
