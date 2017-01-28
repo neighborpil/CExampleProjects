@@ -1,0 +1,7 @@
+﻿  Ex9_1.c
+c:\[codes]\[c]\난c강좌\ch09\ex9_1\ex9_1\ex9_1.c(11): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\[codes]\[c]\난c강좌\ch09\ex9_1\ex9_1\ex9_1.c(11): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\[codes]\[c]\난c강좌\ch09\ex9_1\ex9_1\ex9_1.c(13): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\[codes]\[c]\난c강좌\ch09\ex9_1\ex9_1\ex9_1.c(13): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  Ex9_1.vcxproj -> C:\[Codes]\[C]\난C강좌\ch09\Ex9_1\Debug\Ex9_1.exe
+  Ex9_1.vcxproj -> C:\[Codes]\[C]\난C강좌\ch09\Ex9_1\Debug\Ex9_1.pdb (Full PDB)

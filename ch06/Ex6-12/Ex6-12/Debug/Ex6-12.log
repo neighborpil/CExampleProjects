@@ -1,0 +1,5 @@
+﻿  Ex6-12.c
+c:\users\feelong\desktop\[codes]\[c]\난c강좌\ch06\ex6-12\ex6-12\ex6-12.c(4): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\feelong\desktop\[codes]\[c]\난c강좌\ch06\ex6-12\ex6-12\ex6-12.c(5): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  Ex6-12.vcxproj -> C:\Users\Feelong\Desktop\[Codes]\[C]\난C강좌\ch06\Ex6-12\Debug\Ex6-12.exe
+  Ex6-12.vcxproj -> C:\Users\Feelong\Desktop\[Codes]\[C]\난C강좌\ch06\Ex6-12\Debug\Ex6-12.pdb (Full PDB)
