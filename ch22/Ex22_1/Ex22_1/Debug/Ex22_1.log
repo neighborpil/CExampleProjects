@@ -1,0 +1,6 @@
+﻿  Ex21_1.c
+c:\[codes]\git\cexampleprojects\ch22\ex22_1\ex22_1\ex21_1.c(9): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_1\ex22_1\ex21_1.c(10): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_1\ex22_1\ex21_1.c(11): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  Ex22_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch22\Ex22_1\Debug\Ex22_1.exe
+  Ex22_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch22\Ex22_1\Debug\Ex22_1.pdb (Full PDB)

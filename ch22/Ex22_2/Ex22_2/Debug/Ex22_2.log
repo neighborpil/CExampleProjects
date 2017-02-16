@@ -1,0 +1,11 @@
+﻿  Ex22_2.c
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(10): warning C4133: '초기화 중': 'char *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(11): warning C4133: '초기화 중': 'double *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(13): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(14): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(15): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(17): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(18): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\[codes]\git\cexampleprojects\ch22\ex22_2\ex22_2\ex22_2.c(19): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Ex22_2.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch22\Ex22_2\Debug\Ex22_2.exe
+  Ex22_2.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch22\Ex22_2\Debug\Ex22_2.pdb (Full PDB)
