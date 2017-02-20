@@ -1,0 +1,5 @@
+﻿  Q25_1.c
+c:\[codes]\git\cexampleprojects\ch25\q25_1\q25_1\q25_1.c(12): warning C4013: 'PowNum'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\[codes]\git\cexampleprojects\ch25\q25_1\q25_1\q25_1.c(23): warning C4047: 'return': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+  Q25_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch25\Q25_1\Debug\Q25_1.exe
+  Q25_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch25\Q25_1\Debug\Q25_1.pdb (Full PDB)
