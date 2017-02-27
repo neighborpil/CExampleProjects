@@ -1,0 +1,5 @@
+﻿  Ex25_7.c
+c:\[codes]\git\cexampleprojects\ch25\25_7\25_7\ex25_7.c(20): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\[codes]\git\cexampleprojects\ch25\25_7\25_7\ex25_7.c(20): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  25_7.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch25\25_7\Debug\25_7.exe
+  25_7.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch25\25_7\Debug\25_7.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Ex26_2.c
+c:\[codes]\git\cexampleprojects\ch26\ex26_2\ex26_2\ex26_2.c(11): warning C4101: 'ptr2' :참조되지 않은 지역 변수입니다.
+  EX26_2.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch26\EX26_2\Debug\EX26_2.exe
+  EX26_2.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch26\EX26_2\Debug\EX26_2.pdb (Full PDB)

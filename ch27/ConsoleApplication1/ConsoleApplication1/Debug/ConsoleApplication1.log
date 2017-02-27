@@ -1,0 +1,5 @@
+﻿  Ex27_1.c
+c:\[codes]\git\cexampleprojects\ch27\consoleapplication1\consoleapplication1\ex27_1.c(18): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void (__cdecl *)(void)'입니다.
+c:\[codes]\git\cexampleprojects\ch27\consoleapplication1\consoleapplication1\ex27_1.c(19): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void (__cdecl *)(void)'입니다.
+  ConsoleApplication1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch27\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch27\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
