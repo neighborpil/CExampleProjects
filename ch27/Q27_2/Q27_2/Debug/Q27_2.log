@@ -1,0 +1,5 @@
+﻿  Q27_2.c
+c:\[codes]\git\cexampleprojects\ch27\q27_2\q27_2\q27_2.c(80): warning C4047: '함수': 'std::size_t'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\[codes]\git\cexampleprojects\ch27\q27_2\q27_2\q27_2.c(80): warning C4024: 'malloc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  Q27_2.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch27\Q27_2\Debug\Q27_2.exe
+  Q27_2.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch27\Q27_2\Debug\Q27_2.pdb (Full PDB)

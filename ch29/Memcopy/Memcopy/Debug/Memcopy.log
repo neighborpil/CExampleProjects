@@ -1,0 +1,5 @@
+﻿  MemCopy.c
+c:\[codes]\git\cexampleprojects\ch29\memcopy\memcopy\memcopy.c(9): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\[codes]\git\cexampleprojects\ch29\memcopy\memcopy\memcopy.c(14): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Memcopy.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch29\Memcopy\Debug\Memcopy.exe
+  Memcopy.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch29\Memcopy\Debug\Memcopy.pdb (Full PDB)
