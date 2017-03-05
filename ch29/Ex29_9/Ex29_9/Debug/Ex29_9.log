@@ -1,0 +1,4 @@
+﻿  Ex29_9.c
+c:\[codes]\git\cexampleprojects\ch29\ex29_9\ex29_9\ex29_9.c(10): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Ex29_9.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch29\Ex29_9\Debug\Ex29_9.exe
+  Ex29_9.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch29\Ex29_9\Debug\Ex29_9.pdb (Full PDB)

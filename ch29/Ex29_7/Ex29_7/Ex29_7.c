@@ -13,8 +13,8 @@ int main(void)
 	strncpy(dest2, src, strlen(src));
 	*/
 
-	strcpy_s(dest1, strlen(src),  src);
-	strncpy_s(dest2, strlen(src),  src, strlen(src));
+	strcpy_s(dest1, sizeof(src),  src);
+	strncpy_s(dest2, sizeof(src),  src, strlen(src) + 1);
 
 	printf("dest1 : %s \n", dest1);
 	printf("dest2 : %s \n", dest2);
