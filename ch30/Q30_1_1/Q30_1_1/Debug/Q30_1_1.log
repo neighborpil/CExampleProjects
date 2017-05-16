@@ -1,0 +1,5 @@
+﻿  Q30_1_1.c
+c:\[codes]\git\cexampleprojects\ch30\q30_1_1\q30_1_1\q30_1_1.c(10): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\[codes]\git\cexampleprojects\ch30\q30_1_1\q30_1_1\q30_1_1.c(21): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Q30_1_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch30\Q30_1_1\Debug\Q30_1_1.exe
+  Q30_1_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch30\Q30_1_1\Debug\Q30_1_1.pdb (Full PDB)

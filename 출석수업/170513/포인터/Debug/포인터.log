@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\[codes]\git\cexampleprojects\출석수업\170513\포인터\소스.cpp(29): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\[codes]\git\cexampleprojects\출석수업\170513\포인터\소스.cpp(21): warning C4101: 'k2' :참조되지 않은 지역 변수입니다.
+c:\[codes]\git\cexampleprojects\출석수업\170513\포인터\소스.cpp(27): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  포인터.vcxproj -> C:\[Codes]\Git\CExampleProjects\출석수업\170513\Debug\포인터.exe
+  포인터.vcxproj -> C:\[Codes]\Git\CExampleProjects\출석수업\170513\Debug\포인터.pdb (Full PDB)

@@ -1,0 +1,1 @@
+C:\[Codes]\Git\CExampleProjects\출석수업\SerialSendRecv\SerialSendRecv\bin\Debug\SerialSendRecv.exe.config

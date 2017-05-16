@@ -1,0 +1,5 @@
+﻿  Ex31_11.c
+c:\[codes]\git\cexampleprojects\ch31\ex31_11\ex31_11\ex31_11.c(13): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Point *'입니다.
+c:\[codes]\git\cexampleprojects\ch31\ex31_11\ex31_11\ex31_11.c(14): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  Ex31_11.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch31\Ex31_11\Debug\Ex31_11.exe
+  Ex31_11.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch31\Ex31_11\Debug\Ex31_11.pdb (Full PDB)

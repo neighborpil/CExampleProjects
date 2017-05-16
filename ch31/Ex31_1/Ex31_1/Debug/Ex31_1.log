@@ -1,0 +1,5 @@
+﻿  Ex31_1.c
+c:\[codes]\git\cexampleprojects\ch31\ex31_1\ex31_1\ex31_1.c(18): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\[codes]\git\cexampleprojects\ch31\ex31_1\ex31_1\ex31_1.c(18): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 4개가 제공되었습니다.
+  Ex31_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch31\Ex31_1\Debug\Ex31_1.exe
+  Ex31_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch31\Ex31_1\Debug\Ex31_1.pdb (Full PDB)
