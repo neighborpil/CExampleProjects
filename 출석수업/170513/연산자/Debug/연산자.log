@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\[codes]\git\cexampleprojects\출석수업\170513\연산자\소스.cpp(7): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  연산자.vcxproj -> C:\[Codes]\Git\CExampleProjects\출석수업\170513\Debug\연산자.exe
+  연산자.vcxproj -> C:\[Codes]\Git\CExampleProjects\출석수업\170513\Debug\연산자.pdb (Full PDB)

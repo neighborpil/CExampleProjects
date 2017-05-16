@@ -1,0 +1,10 @@
+﻿  Q31_1.c
+c:\[codes]\git\cexampleprojects\ch31\q31_1\q31_1\q31_1.c(29): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\[codes]\git\cexampleprojects\ch31\q31_1\q31_1\q31_1.c(29): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 6개가 제공되었습니다.
+c:\[codes]\git\cexampleprojects\ch31\q31_1\q31_1\q31_1.c(32): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\[codes]\git\cexampleprojects\ch31\q31_1\q31_1\q31_1.c(32): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 6개가 제공되었습니다.
+c:\[codes]\git\cexampleprojects\ch31\q31_1\q31_1\q31_1.c(21): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+c:\[codes]\git\cexampleprojects\ch31\q31_1\q31_1\q31_1.c(23): warning C4101: 'age' :참조되지 않은 지역 변수입니다.
+c:\[codes]\git\cexampleprojects\ch31\q31_1\q31_1\q31_1.c(22): warning C4101: 'ID' :참조되지 않은 지역 변수입니다.
+  Q31_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch31\Q31_1\Debug\Q31_1.exe
+  Q31_1.vcxproj -> C:\[Codes]\Git\CExampleProjects\ch31\Q31_1\Debug\Q31_1.pdb (Full PDB)
